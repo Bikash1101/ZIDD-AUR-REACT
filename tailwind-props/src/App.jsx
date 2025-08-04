@@ -15,7 +15,7 @@ function App() {
 
   return (
     <>
-      <h1 className='bg-green-400 text-black rounded-2xl p-5 font-bold mb-4'>Tailwind Test</h1>
+      <h1 className='bg-green-400 text-black rounded-2xl p-5 font-bold mb-4 '>Tailwind Test</h1>
       <Card username = "ZIDD AUR REACT" someObj = {myObj}/>
       <Card username= "Bikash"/>
     </>
